@@ -40,7 +40,8 @@
 
 ## Contact
 
-### u can connect with me with this:
+---
+u can connect with me with this:
 
 ---
 Phone: +2 434-232-534234
