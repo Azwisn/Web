@@ -2,7 +2,8 @@
 
 # Anastasia Lukyanova
 
-## Well, im study at BRU.
+---
+Well, im study at BRU.
 
 ### Education
 
