@@ -8,6 +8,7 @@
 
 ---
 [School 27](https://sosh27mogilev.by/)
+
 [BRU](http://en.bru.by/)
 
 ## C# for 3 years, HTML and CSS maybe arround 2 years, JS 0.5 year, JAVA arround a week.
