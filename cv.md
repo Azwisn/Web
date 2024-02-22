@@ -11,7 +11,13 @@
 
 [BRU](http://en.bru.by/)
 
-## C# for 3 years, HTML and CSS maybe arround 2 years, JS 0.5 year, JAVA arround a week.
+### Skills
+
+---
+1. C# for 3 years
+1. HTML and CSS maybe arround 2 years
+1. JS 0.5 year
+1. JAVA arround a week.
 
 ### Code
 
